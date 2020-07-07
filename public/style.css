@@ -1,0 +1,149 @@
+/* font-family: 'Cinzel', serif;
+font-family: 'Orbitron', sans-serif;
+font-family: 'Titillium Web', sans-serif; */
+body{
+    margin: 0;
+    padding: 0;
+    background-color: black;
+}
+h1,p,h3{
+    margin: 0;
+}
+.alert{
+    margin: 0;
+    border-radius: 0;
+}
+.global-nav{
+    background-color: white;
+    text-align: center;
+    height: auto;
+}
+.navbar{
+    background-color: black !important;
+}
+/* .lunar-heading{
+    font-family: 'Orbitron', sans-serif;
+    color: black;
+}
+.main-nav{
+    display: flex;
+    background-color: black;
+    color: white;
+    height: 50px;
+    text-align: center;
+    margin: auto 0;
+
+}
+.mainnav-heading{
+    color: white;
+    font-family: 'Orbitron', sans-serif;
+}
+.mainnav-component{
+    color: white;
+    text-align: center;
+    margin: auto 10px;
+    font-family: 'Titillium Web', sans-serif;
+    transition: 0.2s ease-in;
+    padding: 25px auto;
+}
+
+.login-button{
+    background-color: transparent;
+    color: white;
+    cursor: pointer;
+    transition: 0.2s ease-in;
+    font-family: 'Titillium Web', sans-serif;
+    border: none;
+    font-size: large;
+    width: 5%;
+    margin-left: auto;
+}
+
+.login-button:hover{
+    background-color: white;
+    color:black;
+}
+.signup-button{
+    background-color: transparent;
+    color: white;
+    cursor: pointer;
+    transition: 0.2s ease-in;
+    font-family: 'Titillium Web', sans-serif;
+    border: none;
+    font-size: large;
+    width: 5%;
+}
+.signup-button:hover{
+    background-color: white;
+    color:black;
+} */
+
+.server-image{
+    width: 100%;
+    height: 450px;
+    object-fit: cover;
+    position: absolute;
+    z-index: -1;
+    filter: brightness(50%);
+}
+.eclipse-div{
+    text-align: center;
+}
+.eclipse-intro{
+    color: white;
+    font-family: 'Titillium Web', sans-serif;
+    font-size: xx-large;
+    padding-top: 100px;
+}
+.eclipse-heading{
+    color: white;
+    font-family: 'Titillium Web', sans-serif;
+    font-size: 15ch;
+}
+.eclipse-description{
+    color: white;
+    font-family: 'Titillium Web', sans-serif;
+    font-size: xx-large;
+    margin-bottom: 10px;
+}
+.learn-button{
+    margin-bottom: 100px;
+}
+.second-div{
+    text-align: center;
+    color: white;
+}
+
+.coloumn{
+    padding: 10px 30px;
+}
+
+.quantum-logo{
+    width: 150px;
+    height: auto;
+    margin-bottom: 15px;
+}
+.ai-logo{
+    width: 120px;
+    height: auto;
+    margin-bottom: 15px;
+}
+.cloud-logo{
+    width: 150px;
+    margin-bottom: 75px;
+    height: auto;
+}
+.server-logo{
+    width: 150px;
+    margin-bottom: 75px;
+    height: auto;
+}
+.ai-heading,.quantum-heading{
+    margin-bottom: 25px;
+}
+.cloud-heading{
+    margin-bottom: 50px;
+}
+.cloud-description,.quantum-description,.ai-description{
+    margin: 25px 0;
+}
