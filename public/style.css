@@ -21,19 +21,11 @@ h1,p,h3{
 .navbar{
     background-color: black !important;
 }
-/* .lunar-heading{
+.lunar-heading{
     font-family: 'Orbitron', sans-serif;
     color: black;
 }
-.main-nav{
-    display: flex;
-    background-color: black;
-    color: white;
-    height: 50px;
-    text-align: center;
-    margin: auto 0;
 
-}
 .mainnav-heading{
     color: white;
     font-family: 'Orbitron', sans-serif;
@@ -46,37 +38,6 @@ h1,p,h3{
     transition: 0.2s ease-in;
     padding: 25px auto;
 }
-
-.login-button{
-    background-color: transparent;
-    color: white;
-    cursor: pointer;
-    transition: 0.2s ease-in;
-    font-family: 'Titillium Web', sans-serif;
-    border: none;
-    font-size: large;
-    width: 5%;
-    margin-left: auto;
-}
-
-.login-button:hover{
-    background-color: white;
-    color:black;
-}
-.signup-button{
-    background-color: transparent;
-    color: white;
-    cursor: pointer;
-    transition: 0.2s ease-in;
-    font-family: 'Titillium Web', sans-serif;
-    border: none;
-    font-size: large;
-    width: 5%;
-}
-.signup-button:hover{
-    background-color: white;
-    color:black;
-} */
 
 .server-image{
     width: 100%;
@@ -119,22 +80,22 @@ h1,p,h3{
 }
 
 .quantum-logo{
-    width: 150px;
+    width: 180px;
     height: auto;
     margin-bottom: 15px;
 }
 .ai-logo{
-    width: 120px;
+    width: 150px;
     height: auto;
     margin-bottom: 15px;
 }
 .cloud-logo{
-    width: 150px;
+    width: 180px;
     margin-bottom: 75px;
     height: auto;
 }
 .server-logo{
-    width: 150px;
+    width: 180px;
     margin-bottom: 75px;
     height: auto;
 }
@@ -146,4 +107,31 @@ h1,p,h3{
 }
 .cloud-description,.quantum-description,.ai-description{
     margin: 25px 0;
+}
+.main-headings{
+    text-align: center;
+    margin: 50px 0 20px;
+    color: white;
+    font-size: 7ch;
+}
+.para-class{
+    text-align: center;
+    color: white;
+    font-size: x-large;
+}
+.partner-logo{
+  height: 500px;
+  width: 100%;
+  object-fit: scale-down;
+}
+.nvidia{
+    object-fit: scale-down;
+}
+.footer-area{
+    background-color: black;
+    width: 100%;
+    height: 100px;
+    text-align: center;
+    margin-top: 50px;
+    color: white;
 }

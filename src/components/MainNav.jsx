@@ -35,16 +35,6 @@ function MainNav(){
     </div>
   </nav>
   </div>
-    {/* // <div className="main-nav navbar-expand-lg">
-    //     <h1 className="mainnav-heading">Lunar</h1>
-    //     <p className="mainnav-component">Cloud Services</p>
-    //     <p className="mainnav-component">AI Solutions</p>
-    //     <p className="mainnav-component">Server Solutions</p>
-    //     <p className="mainnav-component">Quantum Computing</p>
-    //     <p className="mainnav-component">Pricing</p>
-    //     <button className="login-button">Log In</button>
-    //     <button className="signup-button">Sign Up</button>
-    // </div> */}
 }
 
 export default MainNav;
