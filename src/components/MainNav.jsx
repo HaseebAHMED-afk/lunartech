@@ -11,19 +11,19 @@ function MainNav(){
     <div className="collapse navbar-collapse" id="navbarSupportedContent">
       <ul className="navbar-nav mr-auto">
         <li className="nav-item active">
-          <a className="nav-link" href="#">Cloud Computing<span className="sr-only">(current)</span></a>
+          <a className="nav-link">Cloud Computing<span className="sr-only">(current)</span></a>
         </li>
         <li className="nav-item active">
-          <a className="nav-link" href="#">Artifical Intelligence</a>
+          <a className="nav-link" >Artifical Intelligence</a>
         </li>
         <li className="nav-item active">
-          <a className="nav-link" href="#">Data Center</a>
+          <a className="nav-link" >Data Center</a>
         </li>
         <li className="nav-item active">
-          <a className="nav-link" href="#">Quantum Computing</a>
+          <a className="nav-link" >Quantum Computing</a>
         </li>
         <li className="nav-item active">
-          <a className="nav-link" href="#">Pricing</a>
+          <a className="nav-link" >Pricing</a>
         </li>
       </ul>
       
