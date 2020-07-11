@@ -14,16 +14,16 @@ function MainNav(){
           <a className="nav-link" href="./page.html">Cloud Computing<span className="sr-only">(current)</span></a>
         </li>
         <li className="nav-item active">
-          <a className="nav-link" href="./page.html">Artifical Intelligence</a>
+          <a className="nav-link" href="page.html">Artifical Intelligence</a>
         </li>
         <li className="nav-item active">
-          <a className="nav-link" href="./page.html">Data Center</a>
+          <a className="nav-link" href="page.html">Data Center</a>
         </li>
         <li className="nav-item active">
-          <a className="nav-link" href="./page.html">Quantum Computing</a>
+          <a className="nav-link" href="page.html">Quantum Computing</a>
         </li>
         <li className="nav-item active">
-          <a className="nav-link" href="./page.html">Pricing</a>
+          <a className="nav-link" href="page.html">Pricing</a>
         </li>
       </ul>
       
