@@ -3,7 +3,7 @@ import React from 'react';
 function MainNav(){
     return <div>
     <nav className="navbar navbar-expand-lg navbar-dark bg-dark fixed">
-    <a className="navbar-brand mainnav-heading" href="#">Lunar</a>
+    <a className="navbar-brand mainnav-heading" href="page.html">Lunar</a>
     <button className="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
       <span className="navbar-toggler-icon"></span>
     </button>
