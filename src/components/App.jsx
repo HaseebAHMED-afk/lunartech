@@ -18,7 +18,7 @@ function App(){
         <SecondDiv />
         <MainHeading heading="Our Strategic Partners" headingClass="main-headings" para="Who have supported us over the years." paraClass="para-class" />
         <StrategicPartner />
-        <Footer content="© Haseeb Ahmed Enterprise" />
+        <Footer content="© Haseeb Ahmed Enterprise"    />
     </div>
 
 }
