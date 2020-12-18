@@ -34,4 +34,4 @@ jobs:
     - name: Install Surge
       run: npm install --global surge
     - name: Deploy React App
-      run: surge ./build lunartechbyhaseebahmed.surge.sh --token ${{secrets.SURGE_TOKEN}}
+      run: surge ./build lunartechbyhaseebahmed.surge.sh --token ${{secrets.SURGE_SECRET}}
